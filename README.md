@@ -3,6 +3,7 @@
 ## is何
 
 * 画像をJPEG画像に圧縮し、そのデータを意図的に壊すことで、特有の効果を適用します。
+    * 参考: https://aescripts.com/jpeg-glitch/
 
 ## ダウンロード
 
